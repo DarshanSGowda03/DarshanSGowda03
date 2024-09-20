@@ -1,6 +1,6 @@
 <img align = "center" alt = "coding" width = " 800" height ="400" src = "https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645607.jpg?size=626&ext=jpg">
 <h1 align="center">Hi 👋, I'm Darshan S</h1>
-<h3 align="center">a passionate AI/ML engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate AI/ML engineer from India 🇮🇳</h3>
 
 <img align = "right" alt="coding" width = "400" src = "https://i.ytimg.com/vi/bmVKaAV_7-A/maxresdefault.jpg">
 
